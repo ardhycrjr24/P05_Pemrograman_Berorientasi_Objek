@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 class Point {
   int? x;
   int? y;

@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 import 'abstrak_interface/barbarian.dart';
 import 'abstrak_interface/knight.dart';
 

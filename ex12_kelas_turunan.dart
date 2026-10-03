@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 class Parent {
   void m1() => print('Metode m1() miliki kelas Parent');
 }

@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 import 'person.dart';
 
 class Student extends Person {

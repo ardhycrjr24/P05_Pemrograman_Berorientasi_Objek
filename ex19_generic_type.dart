@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 class SecureBox<Tipe> {
   final Tipe _data;
   final String _pin;

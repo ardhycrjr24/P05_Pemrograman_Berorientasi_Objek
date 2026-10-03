@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 import 'game/hero.dart';
 import 'game/monster.dart';
 import 'game/monster_kecoa.dart';

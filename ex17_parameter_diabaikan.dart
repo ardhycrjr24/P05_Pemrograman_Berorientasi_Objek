@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 import 'parameter_diabaikan/ignore_parameter.dart';
 
 void main(List<String> args) {

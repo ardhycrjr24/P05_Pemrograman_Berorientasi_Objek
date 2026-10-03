@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 class Character {
   int _healthPoint = 0;
   int get healthPoint => _healthPoint;

@@ -1,3 +1,7 @@
+/*
+ * Praktikum 5 - Pemrograman Berorientasi Objek di Dart
+ * oleh : Ardiansyah
+ */
 import 'konstruktor_super/person.dart';
 import 'konstruktor_super/student.dart';
 
